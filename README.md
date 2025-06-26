@@ -1,7 +1,11 @@
-# Mobile DnD App
-## Cas Nappi
+# Mobile Frog Clicker App
+By Cas Nappi
 
-TODO : Make the damn app
+TODO : 
+- add frog jumping across sometimes
+- kill the frog
+- option to switch out the button image
+- effects the faster you click?
 
 # Things
 ---
